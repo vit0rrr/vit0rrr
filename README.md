@@ -63,10 +63,6 @@
         I enjoy creating software of any kind. Especially large systems of programs that work together are exciting.
       </samp>
         <br>
-        <br>
-        <br>
-
-
   </p>
 </div>
   <h2><samp>&gt; Contact me</samp></h2>
@@ -88,7 +84,6 @@
     
    <div align="center" >
       <img src= "https://github.com/vit0rrr/vit0rrr/assets/107887615/35566ce5-dfd3-49b6-98e6-96e2e8154746" /></div>
-
 
 </body>
 
