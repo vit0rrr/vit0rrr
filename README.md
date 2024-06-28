@@ -42,7 +42,7 @@
 </div>
 <div>
     <h2><samp>&gt; Experience</samp></h2>
-    <img src="https://user-images.githubusercontent.com/57133330/188281408-c67df9ee-fd1f-4b37-833b-f02848f1ce02.gif" align="right" height="280px">
+    <img >
     <br>
     <p align="center">
       <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white">
@@ -82,8 +82,7 @@
     </p>
     <p align="center" title="またね！"> See you! <img src="https://slackmojis.com/emojis/13171-meow_wave/download" height=15/></p>
     
-   <div align="center" >
-      <img src= "https://github.com/vit0rrr/vit0rrr/assets/107887615/35566ce5-dfd3-49b6-98e6-96e2e8154746" /></div>
+ 
 
 </body>
 
