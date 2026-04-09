@@ -14,9 +14,6 @@
   <a href="https://discord.com/users/bigode6838">
     <img src="https://img.shields.io/badge/Discord-bigode-%237289DA?style=flat-square&logo=discord&logoColor=white" alt="Discord">
   </a>
-  <a href="https://twitter.com/vitorbigode_">
-    <img src="https://img.shields.io/badge/Twitter-@vitorbigode_-1DA1F2?style=flat-square&logo=twitter&logoColor=white" alt="Twitter">
-  </a>
   <a href="mailto:vitorhmeira@gmail.com">
     <img src="https://img.shields.io/badge/Email-vitorhmeira@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email">
   </a>
@@ -31,7 +28,7 @@
 
 Hey! I'm **Vitor Henrique**, a passionate developer from **Brazil** 🇧🇷 currently diving deep into Java and DevOps.
 
-- 🎂 **Age:** 24
+- 🎂 **Age:** 26
 - 🎓 **Education:** Computer Science student
 - 💼 **Dream Role:** Java Developer / DevOps Engineer
 - 🎮 **Hobbies:** Gaming, Music & Programming
@@ -69,18 +66,6 @@ Hey! I'm **Vitor Henrique**, a passionate developer from **Brazil** 🇧🇷 cur
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  
-  ![Vitor's GitHub stats](https://github-readme-stats.vercel.app/api?username=vit0rrr&show_icons=true&theme=gruvbox&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=79c0ff&text_color=c9d1d9)
-  
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vit0rrr&layout=compact&theme=gruvbox&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9)
-
-</div>
-
----
-
 ## 🎓 Experience & Skills
 
 ### Core Competencies
@@ -99,19 +84,6 @@ Hey! I'm **Vitor Henrique**, a passionate developer from **Brazil** 🇧🇷 cur
 
 ---
 
-## 🌟 Featured Projects
-
-<div align="center">
-
-| Project | Description | Tech |
-|---------|-------------|------|
-| 🔗 [Project Name](#) | Brief description | Java, Spring |
-| 🔗 [Project Name](#) | Brief description | JavaScript, React |
-| 🔗 [Project Name](#) | Brief description | Python, Flask |
-
-</div>
-
----
 
 ## 🚀 Let's Connect!
 
@@ -122,7 +94,6 @@ Hey! I'm **Vitor Henrique**, a passionate developer from **Brazil** 🇧🇷 cur
 | Platform | Link |
 |----------|------|
 | 💬 **Discord** | [bigode6838](https://discord.com/users/bigode6838) |
-| 🐦 **Twitter** | [@vitorbigode_](https://twitter.com/vitorbigode_) |
 | 📧 **Email** | [vitorhmeira@gmail.com](mailto:vitorhmeira@gmail.com) |
 | 🎮 **Steam** | [My Profile](https://steamcommunity.com/profiles/76561198117465650/) |
 | 🌐 **Portfolio** | [Your Portfolio](#) |
